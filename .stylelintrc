@@ -1,0 +1,7 @@
+{
+  "processors": ["stylelint-processor-html"],
+  "rules": {
+    "string-quotes": "double",
+    "no-empty-source": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "parser": "babel-eslint",
+    "env": {
+        "es6": true
+    },
+    "parserOptions": {
+        "sourceType": "module"
+    },
+    "plugins": [
+        "html"
+    ],
+    "rules": {
+        "camelcase": "off",
+        "max-len": "off"
+    }
+}
